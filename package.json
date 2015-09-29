@@ -1,0 +1,23 @@
+{
+  "name": "redirector",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "connect": "3.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobinLuck/test.git"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RobinLuck/test/issues"
+  },
+  "homepage": "https://github.com/RobinLuck/test#readme"
+}
